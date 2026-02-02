@@ -30,7 +30,7 @@ I performed extensive analysis using SQL to validate findings. Key queries inclu
 *Screenshots of the interactive Power BI dashboard:*
 
 ### 1. Executive Overview
-![Executive Overview](screenshot_(86).png]
+![Executive Overview]((https://github.com/ashfarofiqoh7-dot/Customer-Behavior-SQL-PowerBI/blob/main/Screenshot%20(86).png?raw=true)
 *High-level KPIs including Total Customers, Revenue, and Category performance.*
 
 ### 2. Customer Behavioral Insights
