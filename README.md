@@ -30,11 +30,11 @@ I performed extensive analysis using SQL to validate findings. Key queries inclu
 *Screenshots of the interactive Power BI dashboard:*
 
 ### 1. Executive Overview
-![Executive Overview](dashboard/screenshot (86).png)
+![Executive Overview](dashboard/screenshot(86).png)
 *High-level KPIs including Total Customers, Revenue, and Category performance.*
 
 ### 2. Customer Behavioral Insights
-![Behavioral Insights](dashboard/screenshot (87).png)
+![Behavioral Insights](dashboard/screenshot(87).png)
 *Deep dive into Payment Methods, Promo Usage gaps, and Subscription vs. Spending habits.*
 
 ## 💡 Strategic Business Recommendations
